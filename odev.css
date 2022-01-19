@@ -1,0 +1,54 @@
+.baslik{
+    color: brown;
+    text-align:center;
+    font-size: 40px;
+    
+     }
+     .javascript{
+      background-color:orangered;
+      width: 500px;
+      height: 200px;
+      text-align: center;
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: white;
+    display: inline-block;
+    margin-left: 50px;
+     }
+     .button{
+         font-size: 20px;
+         font-weight: 50px;
+         padding: 10px 20px;
+         border-radius: 8px;
+         color: orangered;
+        }
+    .c{background-color:orangered;
+      width: 500px;
+      height: 200px;
+      text-align: center;
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: white;
+      display: inline-block;
+      margin-left: 160px;
+    }
+    .php{background-color:orangered;
+      width: 500px;
+      height: 200px;
+      text-align: center;
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: white;
+      display: inline-block;
+      margin-left: 50px;
+    }
+    .java{background-color:orangered;
+      width: 500px;
+      height: 200px;
+      text-align: center;
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: white;
+      display: inline-block;
+      margin-left: 160px;
+    }
